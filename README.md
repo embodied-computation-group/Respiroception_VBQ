@@ -8,9 +8,34 @@ Interoception, the perception and integration of physiological signals, is a fun
 ## Introduction
 
 ## Directory structure
-
-  
-
+```bash
+├── LICENSE
+├── README.md
+├── Respiroception_VBQ_pyenv.yml
+├── analysis
+│   ├── respirocept_behav_analysis.ipynb
+│   └── rrst_behav_jasp.jasp
+├── data
+│   ├── 1-respirocept_regressors_vbq.csv
+│   ├── rrst_behav_data_full.csv
+│   └── rrst_behav_data_vbq_subset.csv
+└── figures
+    ├── fig_01
+    ├── fig_02
+    ├── fig_03
+    ├── fig_04
+    ├── fig_05
+    ├── fig_2_x.png
+    ├── figuresSuppFig1c_symptoms_ratings.png
+    ├── figuresaffective_ratings_x_timept.png
+    ├── figuresrrst_accuracy_aroc_y-y_plot.png
+    ├── figuresrrst_mean_conf_hist.png
+    ├── rrst_group_pmf.png
+    ├── rrst_regressors_heatmap.png
+    ├── rrst_thresh-slope_correlation_joint.png
+    ├── sup_fig_01
+    └── sup_fig_02 
+```
 ## Access
 
 
