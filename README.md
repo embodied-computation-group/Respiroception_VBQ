@@ -33,10 +33,14 @@ Nikolova, N., Ehmsen, J. F., Banellis, L., Brændholt, M., Vejlø, M., Fardo, F.
     ├── fig_02
     ├── ...
 ```
-## Access
 
 
 ## Reproducibility
+In order to reproduce the behavioural analysis and figures in this manuscript, clone this repository and re-create the python environment using
+```bash
+conda env create --name respiroception_vbq_env --file=Respiroception_VBQ_pyenv.yml
+```
+The brain imaging data will be made available in the form of summary statistics maps on NeuroVault.
+https://neurovault.org/collections/17023/
 
 
-## Usage
