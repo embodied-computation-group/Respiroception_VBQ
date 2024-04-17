@@ -10,31 +10,19 @@ Interoception, the perception and integration of physiological signals, is a fun
 ## Directory structure
 ```bash
 ├── LICENSE
-├── README.md
-├── Respiroception_VBQ_pyenv.yml
-├── analysis
-│   ├── respirocept_behav_analysis.ipynb
-│   └── rrst_behav_jasp.jasp
-├── data
-│   ├── 1-respirocept_regressors_vbq.csv
-│   ├── rrst_behav_data_full.csv
-│   └── rrst_behav_data_vbq_subset.csv
-└── figures
+├── README.md                                    # Project overview
+├── Respiroception_VBQ_pyenv.yml                 # Python environment file, listing all necessary packages for reproducibility   
+├── analysis                                     # Direcory containing behavioural analysis code
+│   ├── respirocept_behav_analysis.ipynb         # Jupyter notebook for reproduction of behavioural RRST analysis 
+│   └── rrst_behav_jasp.jasp                     # JASP analysis file, for rmANOVA of unpleasantness ratings
+├── data                                         # Directory containing pre-processed behavioural RRST data
+│   ├── 1-respirocept_regressors_vbq.csv         # Regressors file used for the VBQ analysis
+│   ├── rrst_behav_data_full.csv                 # Full RRST behaviourla data (before exclusions)
+│   └── rrst_behav_data_vbq_subset.csv           # RRST behaviourla data (after exclusions)
+└── figures                                      # Directory containing figure for the pubication
     ├── fig_01
     ├── fig_02
-    ├── fig_03
-    ├── fig_04
-    ├── fig_05
-    ├── fig_2_x.png
-    ├── figuresSuppFig1c_symptoms_ratings.png
-    ├── figuresaffective_ratings_x_timept.png
-    ├── figuresrrst_accuracy_aroc_y-y_plot.png
-    ├── figuresrrst_mean_conf_hist.png
-    ├── rrst_group_pmf.png
-    ├── rrst_regressors_heatmap.png
-    ├── rrst_thresh-slope_correlation_joint.png
-    ├── sup_fig_01
-    └── sup_fig_02 
+    ├── ...
 ```
 ## Access
 
