@@ -1,5 +1,5 @@
 # Microstructural Brain Correlates of Inter-individual Differences in Respiratory Interoception  
-### Niia Nikolova, Jesper Fischer Ehmsen, Leah Banellis, Malthe Brændholt, Melina Vejlø, Francesca Fardo, Micah Allen
+### Niia Nikolova, Jesper Fischer Ehmsen, Leah Banellis, Malthe Brændholt, Christian Steenkjær, Melina Vejlø, Francesca Fardo, Micah Allen
 
 Public repository containing the data, source code, and figures for this project, to be made accessible upon the manuscript's acceptance in a peer-reviewed journal.
 
@@ -13,7 +13,7 @@ https://www.biorxiv.org/content/10.1101/2024.04.08.588519v1
 
 ## Citation
 To reference this work in your research, please cite as follows:
-Nikolova, N., Ehmsen, J. F., Banellis, L., Brændholt, M., Vejlø, M., Fardo, F., & Allen, M. (2024). Microstructural Brain Correlates of Inter-individual Differences in Respiratory Interoception. bioRxiv. https://doi.org/10.1101/2024.04.08.588519
+Nikolova, N., Ehmsen, J. F., Banellis, L., Brændholt, M., Steenkjær, C., Vejlø, M., Fardo, F., & Allen, M. (2024). Microstructural Brain Correlates of Inter-individual Differences in Respiratory Interoception. bioRxiv. https://doi.org/10.1101/2024.04.08.588519
 
 
 ## Directory structure
